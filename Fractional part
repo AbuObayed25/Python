@@ -1,0 +1,3 @@
+a = float(input())
+frac=round(a%1,3)
+print(frac)
