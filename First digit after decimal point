@@ -1,0 +1,4 @@
+a=float(input())
+frac=round(a%1,6)
+first_digit=(frac*10)//1
+print(round(first_digit))
